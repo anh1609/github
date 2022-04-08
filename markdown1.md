@@ -1,4 +1,12 @@
 # Cách sử dụng markdown
+ ### Mục lục
+[ I.Mở đầu](https://github.com/anh1609/github/edit/main/markdown1.md#1m%E1%BB%9F-%C4%91%E1%BA%A7u)
+
+[II.Nội dung](https://github.com/anh1609/github/edit/main/markdown1.md#2n%E1%BB%99i-dung)
+* [1.tiêu đề](https://github.com/anh1609/github/edit/main/markdown1.md#ti%C3%AAu-%C4%91%E1%BB%81)
+* [2.nhấn mạnh, highlight](https://github.com/anh1609/github/edit/main/markdown1.md#nh%E1%BA%A5n-m%E1%BA%A1nh-highlight)
+* [3.Link, image](https://github.com/anh1609/github/edit/main/markdown1.md#link-image)
+    
 ## 1.Mở đầu
 ###### Markdown là ngôn ngữ đánh dấu văn bản được tạo ra bởi John Gruber, sử dụng cú pháp khá đơn giản và dễ hiểu, dễ nhớ. Nếu nắm vững các cú pháp của Markdown bạn có thể trình bày bài viết của mình một cách mạch lạc, ấn tượng mà không mất nhiều thời gian. Bài viết dưới đây sẽ hướng dẫn để bạn có thể hiểu và sử dụng được ngay những cú pháp đó.
 ## 2.Nội dung
