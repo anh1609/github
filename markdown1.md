@@ -33,5 +33,10 @@ thì kết quả sẽ là
 ### ***Link***
 Để chèn link vào bài viết, bạn dùng cú pháp sau
 
+[ title ](http ://~)
+
+### Image
+![ alt ](![image](https://user-images.githubusercontent.com/103040597/162441972-8c9bebc8-9a24-42e2-b78a-6aef2b78623a.png))
+
     
 
