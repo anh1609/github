@@ -29,4 +29,9 @@ thì kết quả sẽ là
 # Nhấn mạnh, highlight
 ###### Bạn có thể kẹp một từ ở đầu và cuối bằng 1 ký tự * để in nghiêng, 2 ký tự ** để bôi đậm, và 3 ký tự *** để vừa in nghiêng vừa bôi đậm.
 
+# Link, image
+### ***Link***
+Để chèn link vào bài viết, bạn dùng cú pháp sau
+
+    
 
