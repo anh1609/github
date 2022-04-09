@@ -1,17 +1,17 @@
 # Cách sử dụng markdown
  ### Mục lục
-[ I.Mở đầu](https://github.com/anh1609/github/edit/main/markdown1.md#1m%E1%BB%9F-%C4%91%E1%BA%A7u)
+[ I.Mở đầu](#1mở-đầu)
 
-[II.Nội dung](https://github.com/anh1609/github/edit/main/markdown1.md#2n%E1%BB%99i-dung)
-* [1.tiêu đề](https://github.com/anh1609/github/edit/main/markdown1.md#ti%C3%AAu-%C4%91%E1%BB%81)
-* [2.nhấn mạnh, highlight](https://github.com/anh1609/github/edit/main/markdown1.md#nh%E1%BA%A5n-m%E1%BA%A1nh-highlight)
-* [3.Link, image](https://github.com/anh1609/github/edit/main/markdown1.md#link-image)
+[II.Nội dung](#2nội-dung)
+* [1.tiêu đề](#tiêu-đề)
+* [2.nhấn mạnh, highlight](#nhấn-mạnh-highlight)
+* [3.Link, image](#link-image)
     
 ## 1.Mở đầu
-###### Markdown là ngôn ngữ đánh dấu văn bản được tạo ra bởi John Gruber, sử dụng cú pháp khá đơn giản và dễ hiểu, dễ nhớ. Nếu nắm vững các cú pháp của Markdown bạn có thể trình bày bài viết của mình một cách mạch lạc, ấn tượng mà không mất nhiều thời gian. Bài viết dưới đây sẽ hướng dẫn để bạn có thể hiểu và sử dụng được ngay những cú pháp đó.
+ Markdown là ngôn ngữ đánh dấu văn bản được tạo ra bởi John Gruber, sử dụng cú pháp khá đơn giản và dễ hiểu, dễ nhớ. Nếu nắm vững các cú pháp của Markdown bạn có thể trình bày bài viết của mình một cách mạch lạc, ấn tượng mà không mất nhiều thời gian. Bài viết dưới đây sẽ hướng dẫn để bạn có thể hiểu và sử dụng được ngay những cú pháp đó.
 ## 2.Nội dung
 ### Tiêu đề
-###### Bạn có thể viết các lớp tiêu đề h1, h2, h3 cho đến h6 bằng cách thêm số lượng ký tự # tương ứng vào đầu dòng. Một ký tự # tương đương với h1, 2 ký tự # tương đương với h2 ... 
+ Bạn có thể viết các lớp tiêu đề h1, h2, h3 cho đến h6 bằng cách thêm số lượng ký tự # tương ứng vào đầu dòng. Một ký tự # tương đương với h1, 2 ký tự # tương đương với h2 ... 
 Ví dụ khi viết
 
 1,  # h1
@@ -41,10 +41,10 @@ thì kết quả sẽ là
 ### ***Link***
 Để chèn link vào bài viết, bạn dùng cú pháp sau
 
-[ title ](http ://~)
+[ title ](địa chỉ )
 
 ### Image
-![ alt ](![image](https://user-images.githubusercontent.com/103040597/162441972-8c9bebc8-9a24-42e2-b78a-6aef2b78623a.png))
+![ alt ](http://thuthuatphanmem.vn/uploads/2018/05/23/wallpaper-4k-hinh-nen-4k-hoang-hon-tren-bien-dep_100008878.jpg)
 
     
 
